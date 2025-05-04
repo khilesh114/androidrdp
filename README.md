@@ -25,7 +25,7 @@ Create a new repository with name: **android-rdp**
 
 1. Go to your GitHub repository: **Settings > Secrets and variables > Actions > New repository secret**
 2. Add a new secret:
-   - Name: `NGROK_TOKEN`
+   - Name: `NGROK_AUTH_TOKEN`
    - Value: *(paste your ngrok auth token)*
 
 ---
